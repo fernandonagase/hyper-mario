@@ -16,6 +16,7 @@ public class MarioController : MonoBehaviour
     private float horizontal = 0f;
     private bool isGrounded = false;
     private bool isRunning = false;
+    private bool isCrouched = false;
 
     void Start()
     {
@@ -27,32 +28,37 @@ public class MarioController : MonoBehaviour
     void Update()
     {
         CheckGround();
-        horizontal = Input.GetAxisRaw("Horizontal");
+        horizontal = isCrouched ? 0 : Input.GetAxisRaw("Horizontal");
 
         if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             rb2d.AddForce(Vector2.up * jumpImpulse, ForceMode2D.Impulse);
         }
 
+        isCrouched = Input.GetKey(KeyCode.LeftControl);
+
         UpdateAnimation();
     }
 
     void FixedUpdate()
     {
-        float horizontalSpeed = horizontal * speedMax;
-        if (Input.GetKey(KeyCode.LeftShift))
+        if (!isCrouched)
         {
-            horizontalSpeed *= runFactor;
-            isRunning = true;
-        }
-        else
-        {
-            isRunning = false;
-        }
-        rb2d.velocity = new Vector2(horizontalSpeed, rb2d.velocity.y);
+            float horizontalSpeed = horizontal * speedMax;
+            if (Input.GetKey(KeyCode.LeftShift))
+            {
+                horizontalSpeed *= runFactor;
+                isRunning = true;
+            }
+            else
+            {
+                isRunning = false;
+            }
+            rb2d.velocity = new Vector2(horizontalSpeed, rb2d.velocity.y);
 
-        // Mover responsabilidade de animação
-        animCtrl.SetBool("isRunning", isRunning);
+            // Mover responsabilidade de animação
+            animCtrl.SetBool("isRunning", isRunning);
+        }
     }
 
 
@@ -65,6 +71,7 @@ public class MarioController : MonoBehaviour
 
         animCtrl.SetFloat("speed", Mathf.Abs(horizontal));
         animCtrl.SetBool("isGrounded", isGrounded);
+        animCtrl.SetBool("isCrouched", isCrouched);
     }
 
     void CheckGround()
