@@ -8,11 +8,14 @@ public class MarioController : MonoBehaviour
     private float speedMax = 5f;
     [SerializeField]
     private float jumpImpulse = 5f;
+    [SerializeField]
+    private float runFactor = 1.6f;
     private Rigidbody2D rb2d;
     private Animator animCtrl;
     private SpriteRenderer sprRenderer;
     private float horizontal = 0f;
     private bool isGrounded = false;
+    private bool isRunning = false;
 
     void Start()
     {
@@ -36,7 +39,20 @@ public class MarioController : MonoBehaviour
 
     void FixedUpdate()
     {
-        rb2d.velocity = new Vector2(horizontal * speedMax, rb2d.velocity.y);
+        float horizontalSpeed = horizontal * speedMax;
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            horizontalSpeed *= runFactor;
+            isRunning = true;
+        }
+        else
+        {
+            isRunning = false;
+        }
+        rb2d.velocity = new Vector2(horizontalSpeed, rb2d.velocity.y);
+
+        // Mover responsabilidade de animação
+        animCtrl.SetBool("isRunning", isRunning);
     }
 
 
