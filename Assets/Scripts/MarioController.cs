@@ -45,7 +45,7 @@ public class MarioController : MonoBehaviour
         if (!isCrouched)
         {
             float horizontalSpeed = horizontal * speedMax;
-            if (Input.GetKey(KeyCode.LeftShift))
+            if (Input.GetKey(KeyCode.LeftShift) && horizontalSpeed != 0)
             {
                 horizontalSpeed *= runFactor;
                 isRunning = true;
@@ -64,11 +64,15 @@ public class MarioController : MonoBehaviour
 
     void UpdateAnimation()
     {
-        if (horizontal > 0f)
-            sprRenderer.flipX = false;
-        else if(horizontal < 0f)
-            sprRenderer.flipX = true;
+        //if (horizontal > 0f)
+        //    sprRenderer.flipX = false;
+        //else if(horizontal < 0f)
+        //    sprRenderer.flipX = true;
 
+        if (horizontal != 0)
+        {
+            animCtrl.SetFloat("direction", horizontal);
+        }
         animCtrl.SetFloat("speed", Mathf.Abs(horizontal));
         animCtrl.SetBool("isGrounded", isGrounded);
         animCtrl.SetBool("isCrouched", isCrouched);
@@ -76,7 +80,7 @@ public class MarioController : MonoBehaviour
 
     void CheckGround()
     {
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 0.1f);
+        RaycastHit2D hit = Physics2D.Raycast(transform.position + Vector3.down * 0.1f, Vector2.down, 0.1f);
         isGrounded = hit.collider != null;
         Debug.DrawRay(transform.position, Vector2.down * 0.1f, Color.red);
     }
