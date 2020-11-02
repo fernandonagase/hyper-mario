@@ -35,7 +35,7 @@ public class MarioController : MonoBehaviour
             rb2d.AddForce(Vector2.up * jumpImpulse, ForceMode2D.Impulse);
         }
 
-        isCrouched = Input.GetKey(KeyCode.LeftControl);
+        isCrouched = Input.GetKey(KeyCode.S);
 
         UpdateAnimation();
     }
