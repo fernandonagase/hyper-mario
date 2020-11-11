@@ -10,10 +10,15 @@ public class MarioController : MonoBehaviour
     private float jumpImpulse = 5f;
     [SerializeField]
     private float runFactor = 1.6f;
+    [SerializeField]
+    private VirtualButton _jumpButton = null;
+    [SerializeField]
+    private VirtualJoystick _joystick = null;
     private Rigidbody2D rb2d;
     private Animator animCtrl;
     private SpriteRenderer sprRenderer;
     private float horizontal = 0f;
+    private float _deadzone = 0.15f;
     private bool isGrounded = false;
     private bool isRunning = false;
     private bool isCrouched = false;
@@ -28,9 +33,15 @@ public class MarioController : MonoBehaviour
     void Update()
     {
         CheckGround();
-        horizontal = isCrouched ? 0 : Input.GetAxisRaw("Horizontal");
+        //horizontal = isCrouched ? 0 : Input.GetAxisRaw("Horizontal");
+        horizontal = isCrouched ? 0 : _joystick.GetHorizontal();
+        horizontal = Mathf.Abs(horizontal) > _deadzone ? horizontal : 0.0f;
 
-        if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        //if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        //{
+        //    rb2d.AddForce(Vector2.up * jumpImpulse, ForceMode2D.Impulse);
+        //}
+        if (isGrounded && _jumpButton.DownEvent)
         {
             rb2d.AddForce(Vector2.up * jumpImpulse, ForceMode2D.Impulse);
         }
