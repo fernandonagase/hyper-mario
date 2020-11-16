@@ -33,15 +33,24 @@ public class MarioController : MonoBehaviour
     void Update()
     {
         CheckGround();
-        //horizontal = isCrouched ? 0 : Input.GetAxisRaw("Horizontal");
-        horizontal = isCrouched ? 0 : _joystick.GetHorizontal();
-        horizontal = Mathf.Abs(horizontal) > _deadzone ? horizontal : 0.0f;
 
-        //if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
-        //{
-        //    rb2d.AddForce(Vector2.up * jumpImpulse, ForceMode2D.Impulse);
-        //}
-        if (isGrounded && _jumpButton.DownEvent)
+        horizontal = Input.GetAxisRaw("Horizontal");
+        if (horizontal != 0)
+        {
+            horizontal = isCrouched ? 0 : horizontal;
+        }
+        else
+        {
+            horizontal = isCrouched ? 0 : _joystick.GetHorizontal();
+            horizontal = Mathf.Abs(horizontal) > _deadzone ? horizontal : 0.0f;
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            if (!isGrounded) return;
+            rb2d.AddForce(Vector2.up * jumpImpulse, ForceMode2D.Impulse);
+        }
+        else if (isGrounded && _jumpButton.DownEvent)
         {
             rb2d.AddForce(Vector2.up * jumpImpulse, ForceMode2D.Impulse);
         }
