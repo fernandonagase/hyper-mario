@@ -6,8 +6,7 @@ public class MarioController : MonoBehaviour
 {
     [SerializeField]
     private float speedMax = 5f;
-    [SerializeField]
-    private float jumpImpulse = 5f;
+    private float jumpImpulse = 10f;
     [SerializeField]
     private float runFactor = 1.6f;
     [SerializeField]
