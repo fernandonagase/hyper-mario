@@ -568,7 +568,7 @@ GameObject:
   - component: {fileID: 415336167}
   m_Layer: 0
   m_Name: Mario
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -670,7 +670,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speedMax: 5
-  jumpImpulse: 10
   runFactor: 1.6
   _jumpButton: {fileID: 2139928107}
   _joystick: {fileID: 433438390}
@@ -1194,6 +1193,7 @@ GameObject:
   - component: {fileID: 1570050349}
   - component: {fileID: 1570050353}
   - component: {fileID: 1570050352}
+  - component: {fileID: 1570050354}
   m_Layer: 0
   m_Name: gumba_yoshi_animation_sprite_sheet_60
   m_TagString: Untagged
@@ -1332,6 +1332,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1570050354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1570050348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2367799bcac05b14881204772f268cbc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1777149338
 GameObject:
   m_ObjectHideFlags: 0
