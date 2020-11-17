@@ -6,11 +6,13 @@ public class GoombaController : MonoBehaviour, ICyclicEnemy
     private int _direction = 1;
 
     private Rigidbody2D _rb2d;
+    private Animator _animator;
 
     // Start is called before the first frame update
     void Start()
     {
         _rb2d = GetComponent<Rigidbody2D>();
+        _animator = GetComponent<Animator>();
     }
 
     void FixedUpdate()
@@ -31,7 +33,6 @@ public class GoombaController : MonoBehaviour, ICyclicEnemy
     {
         if (collision.CompareTag("Waypoint"))
         {
-            print("WAYPOINT");
             collision.GetComponent<IWaypoint>().ExecuteAction(GetComponent<Collider2D>());
         }
     }
@@ -39,5 +40,6 @@ public class GoombaController : MonoBehaviour, ICyclicEnemy
     public void InvertMovement()
     {
         _direction = _direction * -1;
+        _animator.SetFloat("direction", _direction);
     }
 }
