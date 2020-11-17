@@ -5,6 +5,11 @@ using UnityEngine;
 public class MarioController : MonoBehaviour
 {
     [SerializeField]
+    private AudioSource _sfxSource;
+    [SerializeField]
+    private AudioClip _jumpAudio;
+
+    [SerializeField]
     private float speedMax = 5f;
     private float jumpImpulse = 10f;
     [SerializeField]
@@ -48,10 +53,12 @@ public class MarioController : MonoBehaviour
         {
             if (!isGrounded) return;
             rb2d.AddForce(Vector2.up * jumpImpulse, ForceMode2D.Impulse);
+            _sfxSource.PlayOneShot(_jumpAudio);
         }
         else if (isGrounded && _jumpButton.DownEvent)
         {
             rb2d.AddForce(Vector2.up * jumpImpulse, ForceMode2D.Impulse);
+            _sfxSource.PlayOneShot(_jumpAudio);
         }
 
         isCrouched = Input.GetKey(KeyCode.S);
