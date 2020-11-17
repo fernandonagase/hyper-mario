@@ -1,0 +1,5636 @@
+fileFormatVersion: 2
+guid: 5f88eff577a9343448f64de686e84773
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4912249766829755287
+    second: gumba_yoshi_animation_sprite_sheet_0
+  - first:
+      213: -7752858095387182777
+    second: gumba_yoshi_animation_sprite_sheet_1
+  - first:
+      213: 3792792826637010929
+    second: gumba_yoshi_animation_sprite_sheet_2
+  - first:
+      213: -5951910157510617363
+    second: gumba_yoshi_animation_sprite_sheet_3
+  - first:
+      213: 1965854072313250291
+    second: gumba_yoshi_animation_sprite_sheet_4
+  - first:
+      213: -671808036983814665
+    second: gumba_yoshi_animation_sprite_sheet_5
+  - first:
+      213: -7034482614810075952
+    second: gumba_yoshi_animation_sprite_sheet_6
+  - first:
+      213: 2733680826168299565
+    second: gumba_yoshi_animation_sprite_sheet_7
+  - first:
+      213: -2462852927440271953
+    second: gumba_yoshi_animation_sprite_sheet_8
+  - first:
+      213: -7420443764362658283
+    second: gumba_yoshi_animation_sprite_sheet_9
+  - first:
+      213: 2707204425010673699
+    second: gumba_yoshi_animation_sprite_sheet_10
+  - first:
+      213: -8677276020699488755
+    second: gumba_yoshi_animation_sprite_sheet_11
+  - first:
+      213: 2123423543636008401
+    second: gumba_yoshi_animation_sprite_sheet_12
+  - first:
+      213: -5258565676854624952
+    second: gumba_yoshi_animation_sprite_sheet_13
+  - first:
+      213: -4679977956636526151
+    second: gumba_yoshi_animation_sprite_sheet_14
+  - first:
+      213: -2499247586294963367
+    second: gumba_yoshi_animation_sprite_sheet_15
+  - first:
+      213: -3573150209972684794
+    second: gumba_yoshi_animation_sprite_sheet_16
+  - first:
+      213: -3598273179253173784
+    second: gumba_yoshi_animation_sprite_sheet_17
+  - first:
+      213: -5964169790790344472
+    second: gumba_yoshi_animation_sprite_sheet_18
+  - first:
+      213: -2278409577238069398
+    second: gumba_yoshi_animation_sprite_sheet_19
+  - first:
+      213: -5972853714175149590
+    second: gumba_yoshi_animation_sprite_sheet_20
+  - first:
+      213: -5590311230923006832
+    second: gumba_yoshi_animation_sprite_sheet_21
+  - first:
+      213: 302779239866315061
+    second: gumba_yoshi_animation_sprite_sheet_22
+  - first:
+      213: -65734690474170378
+    second: gumba_yoshi_animation_sprite_sheet_23
+  - first:
+      213: -92596012265971068
+    second: gumba_yoshi_animation_sprite_sheet_24
+  - first:
+      213: 1655465604042067961
+    second: gumba_yoshi_animation_sprite_sheet_25
+  - first:
+      213: 1646641143129277464
+    second: gumba_yoshi_animation_sprite_sheet_26
+  - first:
+      213: -585851049597920402
+    second: gumba_yoshi_animation_sprite_sheet_27
+  - first:
+      213: -3425959930903330397
+    second: gumba_yoshi_animation_sprite_sheet_28
+  - first:
+      213: 6843395415895056578
+    second: gumba_yoshi_animation_sprite_sheet_29
+  - first:
+      213: 4700163549888777889
+    second: gumba_yoshi_animation_sprite_sheet_30
+  - first:
+      213: -1649216212293987546
+    second: gumba_yoshi_animation_sprite_sheet_31
+  - first:
+      213: 555982382737393289
+    second: gumba_yoshi_animation_sprite_sheet_32
+  - first:
+      213: -3168022838867491980
+    second: gumba_yoshi_animation_sprite_sheet_33
+  - first:
+      213: 863167941044177061
+    second: gumba_yoshi_animation_sprite_sheet_34
+  - first:
+      213: 1537759336257145364
+    second: gumba_yoshi_animation_sprite_sheet_35
+  - first:
+      213: -8407063926494336382
+    second: gumba_yoshi_animation_sprite_sheet_36
+  - first:
+      213: -5258441763698311297
+    second: gumba_yoshi_animation_sprite_sheet_37
+  - first:
+      213: -2151759685199713372
+    second: gumba_yoshi_animation_sprite_sheet_38
+  - first:
+      213: -5279120344482061794
+    second: gumba_yoshi_animation_sprite_sheet_39
+  - first:
+      213: 1502221363926677614
+    second: gumba_yoshi_animation_sprite_sheet_40
+  - first:
+      213: 3990480523603924924
+    second: gumba_yoshi_animation_sprite_sheet_41
+  - first:
+      213: -5209424176057586235
+    second: gumba_yoshi_animation_sprite_sheet_42
+  - first:
+      213: 2242227401276412712
+    second: gumba_yoshi_animation_sprite_sheet_43
+  - first:
+      213: -4837539456894928053
+    second: gumba_yoshi_animation_sprite_sheet_44
+  - first:
+      213: -6021302415413393721
+    second: gumba_yoshi_animation_sprite_sheet_45
+  - first:
+      213: -587638423208694081
+    second: gumba_yoshi_animation_sprite_sheet_46
+  - first:
+      213: 2991504507695727019
+    second: gumba_yoshi_animation_sprite_sheet_47
+  - first:
+      213: -4699260784047761446
+    second: gumba_yoshi_animation_sprite_sheet_48
+  - first:
+      213: -7408622568743515245
+    second: gumba_yoshi_animation_sprite_sheet_49
+  - first:
+      213: -9028464109421697604
+    second: gumba_yoshi_animation_sprite_sheet_50
+  - first:
+      213: 8469059460705693264
+    second: gumba_yoshi_animation_sprite_sheet_51
+  - first:
+      213: 1210810789838981418
+    second: gumba_yoshi_animation_sprite_sheet_52
+  - first:
+      213: -7604277795001170047
+    second: gumba_yoshi_animation_sprite_sheet_53
+  - first:
+      213: -1515884756234465551
+    second: gumba_yoshi_animation_sprite_sheet_54
+  - first:
+      213: 5195026790672807880
+    second: gumba_yoshi_animation_sprite_sheet_55
+  - first:
+      213: -7602329886696829239
+    second: gumba_yoshi_animation_sprite_sheet_56
+  - first:
+      213: 3661769512496445335
+    second: gumba_yoshi_animation_sprite_sheet_57
+  - first:
+      213: 4866552919509860985
+    second: gumba_yoshi_animation_sprite_sheet_58
+  - first:
+      213: -5062203920175716848
+    second: gumba_yoshi_animation_sprite_sheet_59
+  - first:
+      213: 8635647687268191205
+    second: gumba_yoshi_animation_sprite_sheet_60
+  - first:
+      213: 6546829125407729762
+    second: gumba_yoshi_animation_sprite_sheet_61
+  - first:
+      213: -933402132778030584
+    second: gumba_yoshi_animation_sprite_sheet_62
+  - first:
+      213: -6228264593373163604
+    second: gumba_yoshi_animation_sprite_sheet_63
+  - first:
+      213: -2575474718496710277
+    second: gumba_yoshi_animation_sprite_sheet_64
+  - first:
+      213: 9213730044275357219
+    second: gumba_yoshi_animation_sprite_sheet_65
+  - first:
+      213: -2559014049536047674
+    second: gumba_yoshi_animation_sprite_sheet_66
+  - first:
+      213: -8253051465036801687
+    second: gumba_yoshi_animation_sprite_sheet_67
+  - first:
+      213: 2250418869921478277
+    second: gumba_yoshi_animation_sprite_sheet_68
+  - first:
+      213: 1277530576694897875
+    second: gumba_yoshi_animation_sprite_sheet_69
+  - first:
+      213: 508928688324570173
+    second: gumba_yoshi_animation_sprite_sheet_70
+  - first:
+      213: 7482758558637726144
+    second: gumba_yoshi_animation_sprite_sheet_71
+  - first:
+      213: 8921115533076184559
+    second: gumba_yoshi_animation_sprite_sheet_72
+  - first:
+      213: 1984271968413537843
+    second: gumba_yoshi_animation_sprite_sheet_73
+  - first:
+      213: -2483737044335338211
+    second: gumba_yoshi_animation_sprite_sheet_74
+  - first:
+      213: -6529800792794915121
+    second: gumba_yoshi_animation_sprite_sheet_75
+  - first:
+      213: 5776890346095715389
+    second: gumba_yoshi_animation_sprite_sheet_76
+  - first:
+      213: 4528043452830471939
+    second: gumba_yoshi_animation_sprite_sheet_77
+  - first:
+      213: 4306847770370354102
+    second: gumba_yoshi_animation_sprite_sheet_78
+  - first:
+      213: 5185843737254840662
+    second: gumba_yoshi_animation_sprite_sheet_79
+  - first:
+      213: 7100392665887798556
+    second: gumba_yoshi_animation_sprite_sheet_80
+  - first:
+      213: 560212601401922141
+    second: gumba_yoshi_animation_sprite_sheet_81
+  - first:
+      213: 4264113122391092470
+    second: gumba_yoshi_animation_sprite_sheet_82
+  - first:
+      213: -5733552206142403480
+    second: gumba_yoshi_animation_sprite_sheet_83
+  - first:
+      213: 3784242331034481452
+    second: gumba_yoshi_animation_sprite_sheet_84
+  - first:
+      213: 6650535190328124562
+    second: gumba_yoshi_animation_sprite_sheet_85
+  - first:
+      213: -3471365023613857345
+    second: gumba_yoshi_animation_sprite_sheet_86
+  - first:
+      213: -1270469001537270427
+    second: gumba_yoshi_animation_sprite_sheet_87
+  - first:
+      213: -2205634501061011498
+    second: gumba_yoshi_animation_sprite_sheet_88
+  - first:
+      213: -2936497451499113222
+    second: gumba_yoshi_animation_sprite_sheet_89
+  - first:
+      213: 8285121031589515866
+    second: gumba_yoshi_animation_sprite_sheet_90
+  - first:
+      213: 8619062606787278099
+    second: gumba_yoshi_animation_sprite_sheet_91
+  - first:
+      213: -5291337468011971716
+    second: gumba_yoshi_animation_sprite_sheet_92
+  - first:
+      213: -233020817889094457
+    second: gumba_yoshi_animation_sprite_sheet_93
+  - first:
+      213: -288330298081767247
+    second: gumba_yoshi_animation_sprite_sheet_94
+  - first:
+      213: -1507996909894062345
+    second: gumba_yoshi_animation_sprite_sheet_95
+  - first:
+      213: 9184204453654540592
+    second: gumba_yoshi_animation_sprite_sheet_96
+  - first:
+      213: 3371362322530139385
+    second: gumba_yoshi_animation_sprite_sheet_97
+  - first:
+      213: -1603618053244931592
+    second: gumba_yoshi_animation_sprite_sheet_98
+  - first:
+      213: 8540345215069535630
+    second: gumba_yoshi_animation_sprite_sheet_99
+  - first:
+      213: -4756012909262217384
+    second: gumba_yoshi_animation_sprite_sheet_100
+  - first:
+      213: 6814717800957094088
+    second: gumba_yoshi_animation_sprite_sheet_101
+  - first:
+      213: -8628706337374886081
+    second: gumba_yoshi_animation_sprite_sheet_102
+  - first:
+      213: 6699243241632085033
+    second: gumba_yoshi_animation_sprite_sheet_103
+  - first:
+      213: 3223886812928302432
+    second: gumba_yoshi_animation_sprite_sheet_104
+  - first:
+      213: 8697042472065733875
+    second: gumba_yoshi_animation_sprite_sheet_105
+  - first:
+      213: 8761454239300907115
+    second: gumba_yoshi_animation_sprite_sheet_106
+  - first:
+      213: -3226454280810074615
+    second: gumba_yoshi_animation_sprite_sheet_107
+  - first:
+      213: -3179544730566049510
+    second: gumba_yoshi_animation_sprite_sheet_108
+  - first:
+      213: -2022499655557174077
+    second: gumba_yoshi_animation_sprite_sheet_109
+  - first:
+      213: 7406049139162443342
+    second: gumba_yoshi_animation_sprite_sheet_110
+  - first:
+      213: -4298773208795919307
+    second: gumba_yoshi_animation_sprite_sheet_111
+  - first:
+      213: 7314197732334880885
+    second: gumba_yoshi_animation_sprite_sheet_112
+  - first:
+      213: -6536951028794992736
+    second: gumba_yoshi_animation_sprite_sheet_113
+  - first:
+      213: 2855682236480230410
+    second: gumba_yoshi_animation_sprite_sheet_114
+  - first:
+      213: 1933453819172393911
+    second: gumba_yoshi_animation_sprite_sheet_115
+  - first:
+      213: 3454998054381419781
+    second: gumba_yoshi_animation_sprite_sheet_116
+  - first:
+      213: -6381602145737343338
+    second: gumba_yoshi_animation_sprite_sheet_117
+  - first:
+      213: -2166653465474862956
+    second: gumba_yoshi_animation_sprite_sheet_118
+  - first:
+      213: 8992757907829394635
+    second: gumba_yoshi_animation_sprite_sheet_119
+  - first:
+      213: -8717391926271693544
+    second: gumba_yoshi_animation_sprite_sheet_120
+  - first:
+      213: -3405043802116838679
+    second: gumba_yoshi_animation_sprite_sheet_121
+  - first:
+      213: 1548710903833788498
+    second: gumba_yoshi_animation_sprite_sheet_122
+  - first:
+      213: 5799077005797450913
+    second: gumba_yoshi_animation_sprite_sheet_123
+  - first:
+      213: -1395090826602468799
+    second: gumba_yoshi_animation_sprite_sheet_124
+  - first:
+      213: 3683266487615261733
+    second: gumba_yoshi_animation_sprite_sheet_125
+  - first:
+      213: 3039659519855112051
+    second: gumba_yoshi_animation_sprite_sheet_126
+  - first:
+      213: -7657479573499046151
+    second: gumba_yoshi_animation_sprite_sheet_127
+  - first:
+      213: 7582561300566596402
+    second: gumba_yoshi_animation_sprite_sheet_128
+  - first:
+      213: 8279131357443664964
+    second: gumba_yoshi_animation_sprite_sheet_129
+  - first:
+      213: 1863526354251035320
+    second: gumba_yoshi_animation_sprite_sheet_130
+  - first:
+      213: 2296481266431258557
+    second: gumba_yoshi_animation_sprite_sheet_131
+  - first:
+      213: -8385855254124790079
+    second: gumba_yoshi_animation_sprite_sheet_132
+  - first:
+      213: 4968631219968542527
+    second: gumba_yoshi_animation_sprite_sheet_133
+  - first:
+      213: 2743803023652481659
+    second: gumba_yoshi_animation_sprite_sheet_134
+  - first:
+      213: -748774364338236986
+    second: gumba_yoshi_animation_sprite_sheet_135
+  - first:
+      213: 875465244755513255
+    second: gumba_yoshi_animation_sprite_sheet_136
+  - first:
+      213: 9001542974702961975
+    second: gumba_yoshi_animation_sprite_sheet_137
+  - first:
+      213: 1848358306161725643
+    second: gumba_yoshi_animation_sprite_sheet_138
+  - first:
+      213: -7382514996534361818
+    second: gumba_yoshi_animation_sprite_sheet_139
+  - first:
+      213: 3143786868699927178
+    second: gumba_yoshi_animation_sprite_sheet_140
+  - first:
+      213: -6265554305129478948
+    second: gumba_yoshi_animation_sprite_sheet_141
+  - first:
+      213: 917694076969990359
+    second: gumba_yoshi_animation_sprite_sheet_142
+  - first:
+      213: -6366546574314693385
+    second: gumba_yoshi_animation_sprite_sheet_143
+  - first:
+      213: -5916603250374549093
+    second: gumba_yoshi_animation_sprite_sheet_144
+  - first:
+      213: 7297873452271383529
+    second: gumba_yoshi_animation_sprite_sheet_145
+  - first:
+      213: 857893789374825887
+    second: gumba_yoshi_animation_sprite_sheet_146
+  - first:
+      213: 7097790612787554472
+    second: gumba_yoshi_animation_sprite_sheet_147
+  - first:
+      213: -298557181087987983
+    second: gumba_yoshi_animation_sprite_sheet_148
+  - first:
+      213: 4049514501394288128
+    second: gumba_yoshi_animation_sprite_sheet_149
+  - first:
+      213: -1417920457922861263
+    second: gumba_yoshi_animation_sprite_sheet_150
+  - first:
+      213: -1325011746854281685
+    second: gumba_yoshi_animation_sprite_sheet_151
+  - first:
+      213: -7712294294180932462
+    second: gumba_yoshi_animation_sprite_sheet_152
+  - first:
+      213: -4066483311370646404
+    second: gumba_yoshi_animation_sprite_sheet_153
+  - first:
+      213: -5607621619499628743
+    second: gumba_yoshi_animation_sprite_sheet_154
+  - first:
+      213: -2936891379902014262
+    second: gumba_yoshi_animation_sprite_sheet_155
+  - first:
+      213: -4081439430277165154
+    second: gumba_yoshi_animation_sprite_sheet_156
+  - first:
+      213: -4573160803907966880
+    second: gumba_yoshi_animation_sprite_sheet_157
+  - first:
+      213: -2272618765212032658
+    second: gumba_yoshi_animation_sprite_sheet_158
+  - first:
+      213: 2493856100491299568
+    second: gumba_yoshi_animation_sprite_sheet_159
+  - first:
+      213: 4572745573730084598
+    second: gumba_yoshi_animation_sprite_sheet_160
+  - first:
+      213: -2046238591950124311
+    second: gumba_yoshi_animation_sprite_sheet_161
+  - first:
+      213: 5649726745188501901
+    second: gumba_yoshi_animation_sprite_sheet_162
+  - first:
+      213: -2745475022902625165
+    second: gumba_yoshi_animation_sprite_sheet_163
+  - first:
+      213: 8232979642017750112
+    second: gumba_yoshi_animation_sprite_sheet_164
+  - first:
+      213: -1811102224352095337
+    second: gumba_yoshi_animation_sprite_sheet_165
+  - first:
+      213: 7152481176224461420
+    second: gumba_yoshi_animation_sprite_sheet_166
+  - first:
+      213: 7556115237780772669
+    second: gumba_yoshi_animation_sprite_sheet_167
+  - first:
+      213: -2814905455386808242
+    second: gumba_yoshi_animation_sprite_sheet_168
+  - first:
+      213: -9091627111338526647
+    second: gumba_yoshi_animation_sprite_sheet_169
+  - first:
+      213: 7211138816782524620
+    second: gumba_yoshi_animation_sprite_sheet_170
+  - first:
+      213: -5096510612311016104
+    second: gumba_yoshi_animation_sprite_sheet_171
+  - first:
+      213: -5991907253668249748
+    second: gumba_yoshi_animation_sprite_sheet_172
+  - first:
+      213: -2703168930182462643
+    second: gumba_yoshi_animation_sprite_sheet_173
+  - first:
+      213: -6487621856106032193
+    second: gumba_yoshi_animation_sprite_sheet_174
+  - first:
+      213: -1014276202103483931
+    second: gumba_yoshi_animation_sprite_sheet_175
+  - first:
+      213: 3308315126648423703
+    second: gumba_yoshi_animation_sprite_sheet_176
+  - first:
+      213: -3889497389376060185
+    second: gumba_yoshi_animation_sprite_sheet_177
+  - first:
+      213: 3854327327686480391
+    second: gumba_yoshi_animation_sprite_sheet_178
+  - first:
+      213: -7047335107345392351
+    second: gumba_yoshi_animation_sprite_sheet_179
+  - first:
+      213: -5641938790146584212
+    second: gumba_yoshi_animation_sprite_sheet_180
+  - first:
+      213: -489227243334555788
+    second: gumba_yoshi_animation_sprite_sheet_181
+  - first:
+      213: 5631131739808422768
+    second: gumba_yoshi_animation_sprite_sheet_182
+  - first:
+      213: -1496872309481216609
+    second: gumba_yoshi_animation_sprite_sheet_183
+  - first:
+      213: 1028742374792873073
+    second: gumba_yoshi_animation_sprite_sheet_184
+  - first:
+      213: 1253653473562648955
+    second: gumba_yoshi_animation_sprite_sheet_185
+  - first:
+      213: -5984206110742371521
+    second: gumba_yoshi_animation_sprite_sheet_186
+  - first:
+      213: -7678835469680048770
+    second: gumba_yoshi_animation_sprite_sheet_187
+  - first:
+      213: -6921830537840568101
+    second: gumba_yoshi_animation_sprite_sheet_188
+  - first:
+      213: -8133210101640404942
+    second: gumba_yoshi_animation_sprite_sheet_189
+  - first:
+      213: 7300432166348894646
+    second: gumba_yoshi_animation_sprite_sheet_190
+  - first:
+      213: -2194187044479128239
+    second: gumba_yoshi_animation_sprite_sheet_191
+  - first:
+      213: 1977698856098071347
+    second: gumba_yoshi_animation_sprite_sheet_192
+  - first:
+      213: -3199635374007745911
+    second: gumba_yoshi_animation_sprite_sheet_193
+  - first:
+      213: -2406278237196372744
+    second: gumba_yoshi_animation_sprite_sheet_194
+  - first:
+      213: 6628171633840489138
+    second: gumba_yoshi_animation_sprite_sheet_195
+  - first:
+      213: 3282527952255255784
+    second: gumba_yoshi_animation_sprite_sheet_196
+  - first:
+      213: -4058654737431542446
+    second: gumba_yoshi_animation_sprite_sheet_197
+  - first:
+      213: -4805698213589237156
+    second: gumba_yoshi_animation_sprite_sheet_198
+  - first:
+      213: 6381721138964514122
+    second: gumba_yoshi_animation_sprite_sheet_199
+  - first:
+      213: -888791457086628551
+    second: gumba_yoshi_animation_sprite_sheet_200
+  - first:
+      213: -1842926306595788
+    second: gumba_yoshi_animation_sprite_sheet_201
+  - first:
+      213: -8316063307431227513
+    second: gumba_yoshi_animation_sprite_sheet_202
+  - first:
+      213: -5769748042108254641
+    second: gumba_yoshi_animation_sprite_sheet_203
+  - first:
+      213: 3893376161494152396
+    second: gumba_yoshi_animation_sprite_sheet_204
+  - first:
+      213: 5155161870024188140
+    second: gumba_yoshi_animation_sprite_sheet_205
+  - first:
+      213: -9018994850279398132
+    second: gumba_yoshi_animation_sprite_sheet_206
+  - first:
+      213: 8250413034025743672
+    second: gumba_yoshi_animation_sprite_sheet_207
+  - first:
+      213: 5285597226722838299
+    second: gumba_yoshi_animation_sprite_sheet_208
+  - first:
+      213: -2429076321062468517
+    second: gumba_yoshi_animation_sprite_sheet_209
+  - first:
+      213: 6437121918154730656
+    second: gumba_yoshi_animation_sprite_sheet_210
+  - first:
+      213: 8060117830582507609
+    second: gumba_yoshi_animation_sprite_sheet_211
+  - first:
+      213: 7360939478830688985
+    second: gumba_yoshi_animation_sprite_sheet_212
+  - first:
+      213: 9051405413056806204
+    second: gumba_yoshi_animation_sprite_sheet_213
+  - first:
+      213: -4524378133011393518
+    second: gumba_yoshi_animation_sprite_sheet_214
+  - first:
+      213: -8681247264507989350
+    second: gumba_yoshi_animation_sprite_sheet_215
+  - first:
+      213: 5026823161407289502
+    second: gumba_yoshi_animation_sprite_sheet_216
+  - first:
+      213: -8292798119759968467
+    second: gumba_yoshi_animation_sprite_sheet_217
+  - first:
+      213: 3093935211623712951
+    second: gumba_yoshi_animation_sprite_sheet_218
+  - first:
+      213: -899662762105023865
+    second: gumba_yoshi_animation_sprite_sheet_219
+  - first:
+      213: -517304624375222488
+    second: gumba_yoshi_animation_sprite_sheet_220
+  - first:
+      213: 917902638008314236
+    second: gumba_yoshi_animation_sprite_sheet_221
+  - first:
+      213: -3123052201792902518
+    second: gumba_yoshi_animation_sprite_sheet_222
+  - first:
+      213: 3170060917926099461
+    second: gumba_yoshi_animation_sprite_sheet_223
+  - first:
+      213: 6072540365139640355
+    second: gumba_yoshi_animation_sprite_sheet_224
+  - first:
+      213: -8438738860757565571
+    second: gumba_yoshi_animation_sprite_sheet_225
+  - first:
+      213: -5889806817887461905
+    second: gumba_yoshi_animation_sprite_sheet_226
+  - first:
+      213: -8358421378742753032
+    second: gumba_yoshi_animation_sprite_sheet_227
+  - first:
+      213: -4833782347702921592
+    second: gumba_yoshi_animation_sprite_sheet_228
+  - first:
+      213: -4814343319282454858
+    second: gumba_yoshi_animation_sprite_sheet_229
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964fd100dde24dbb0800000000000000
+      internalID: -4912249766829755287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497f6e73a0586490800000000000000
+      internalID: -7752858095387182777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f749521bf4b2a430800000000000000
+      internalID: 3792792826637010929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de65a8e0f31966da0800000000000000
+      internalID: -5951910157510617363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 3838
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f18c7cfcdd184b10800000000000000
+      internalID: 1965854072313250291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5c35656224da6f0800000000000000
+      internalID: -671808036983814665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc9595055f706e90800000000000000
+      internalID: -7034482614810075952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20de0d4a3cffe520800000000000000
+      internalID: 2733680826168299565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa544edaf4032ddd0800000000000000
+      internalID: -2462852927440271953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb66526b9450990800000000000000
+      internalID: -7420443764362658283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3287027c41ce19520800000000000000
+      internalID: 2707204425010673699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e1130fe6f149780800000000000000
+      internalID: -8677276020699488755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd102a667ae77d10800000000000000
+      internalID: 2123423543636008401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84db403c062d507b0800000000000000
+      internalID: -5258565676854624952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9750218d06d0fb0800000000000000
+      internalID: -4679977956636526151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 3838
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953e225df83e05dd0800000000000000
+      internalID: -2499247586294963367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3582
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608377db0de996ec0800000000000000
+      internalID: -3573150209972684794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3582
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e19cc1ab9d501ec0800000000000000
+      internalID: -3598273179253173784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3582
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e063dfbc230b3da0800000000000000
+      internalID: -5964169790790344472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3582
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f70ef9f867160e0800000000000000
+      internalID: -2278409577238069398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 3582
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9b73741392c1da0800000000000000
+      internalID: -5972853714175149590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3582
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c15f0ed893b62b0800000000000000
+      internalID: -5590311230923006832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 3582
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531389d4d10b33400800000000000000
+      internalID: 302779239866315061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 3582
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7edd4b5a6761ff0800000000000000
+      internalID: -65734690474170378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 3582
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482e44dda6807bef0800000000000000
+      internalID: -92596012265971068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3582
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff0ec2223569f610800000000000000
+      internalID: 1655465604042067961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 3582
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81483c8356b0ad610800000000000000
+      internalID: 1646641143129277464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 3582
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b1d690393aed7f0800000000000000
+      internalID: -585851049597920402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3582
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a109c7289b8470d0800000000000000
+      internalID: -3425959930903330397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3326
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c026f57fdf98fe50800000000000000
+      internalID: 6843395415895056578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3326
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae0c5998d55a3140800000000000000
+      internalID: 4700163549888777889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3326
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623d664c79ecc19e0800000000000000
+      internalID: -1649216212293987546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 3326
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9860078080f37b700800000000000000
+      internalID: 555982382737393289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 3326
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4738af0530ce804d0800000000000000
+      internalID: -3168022838867491980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3326
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8817b4ba69afb00800000000000000
+      internalID: 863167941044177061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 3326
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ac5ab08f7375510800000000000000
+      internalID: 1537759336257145364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 3326
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aed41c6eb145b80800000000000000
+      internalID: -8407063926494336382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 3326
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ffeaa83134607b0800000000000000
+      internalID: -5258441763698311297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3326
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab2aa187f96322e0800000000000000
+      internalID: -2151759685199713372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 3326
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12eb94440cccb6b0800000000000000
+      internalID: -5279120344482061794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 3326
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683ad21f56f8d410800000000000000
+      internalID: 1502221363926677614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3326
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7d68cc4e8016730800000000000000
+      internalID: 3990480523603924924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 3326
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd61c5005864b7b0800000000000000
+      internalID: -5209424176057586235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 3326
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8235abe01fdfd1f10800000000000000
+      internalID: 2242227401276412712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 3326
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b77dc8e7b9ddcb0800000000000000
+      internalID: -4837539456894928053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3070
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6451cfa59007ca0800000000000000
+      internalID: -6021302415413393721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3070
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe6640b7f948d7f0800000000000000
+      internalID: -587638423208694081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3070
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba10f250085f38920800000000000000
+      internalID: 2991504507695727019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 3070
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7d8e3f63fd8ceb0800000000000000
+      internalID: -4699260784047761446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 3070
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bc91bb6094f2990800000000000000
+      internalID: -7408622568743515245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3070
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb56e823ab374b280800000000000000
+      internalID: -9028464109421697604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 3070
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e260165b4288570800000000000000
+      internalID: 8469059460705693264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 3070
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29009a8ff9adc010800000000000000
+      internalID: 1210810789838981418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 3070
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187809772ad287690800000000000000
+      internalID: -7604277795001170047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 3070
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe073088de76fae0800000000000000
+      internalID: -1515884756234465551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 3070
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7b0b87751781840800000000000000
+      internalID: 5195026790672807880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 3070
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce89163f391f7690800000000000000
+      internalID: -7602329886696829239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 3070
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797b4b188f731d230800000000000000
+      internalID: 3661769512496445335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3070
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9728600a818798340800000000000000
+      internalID: 4866552919509860985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 3070
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0162655fa507fb9b0800000000000000
+      internalID: -5062203920175716848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2814
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb4b0561dbf7d770800000000000000
+      internalID: 8635647687268191205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2814
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268eb1927620bda50800000000000000
+      internalID: 6546829125407729762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2814
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a6c23a4b3eb03f0800000000000000
+      internalID: -933402132778030584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2814
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf89d0e952c099a0800000000000000
+      internalID: -6228264593373163604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2814
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7121049363124cd0800000000000000
+      internalID: -2575474718496710277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2814
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3267069a8aebddf70800000000000000
+      internalID: 9213730044275357219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2814
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c58b2ab74e8c7cd0800000000000000
+      internalID: -2559014049536047674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 2814
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d6794b65477d80800000000000000
+      internalID: -8253051465036801687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2814
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5867189f9081b3f10800000000000000
+      internalID: 2250418869921478277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 2814
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc69957a43bab110800000000000000
+      internalID: 1277530576694897875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 2814
+        width: 108
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c679312f3101700800000000000000
+      internalID: 508928688324570173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 2814
+        width: 108
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c99d93834918d760800000000000000
+      internalID: 7482758558637726144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 2814
+        width: 108
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedb93daf4b2ecb70800000000000000
+      internalID: 8921115533076184559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2814
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336dd0797dc898b10800000000000000
+      internalID: 1984271968413537843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 2814
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd9ec415ef78dd0800000000000000
+      internalID: -2483737044335338211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 2814
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce156b76cc7165a0800000000000000
+      internalID: -6529800792794915121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2558
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d342b699923ab2050800000000000000
+      internalID: 5776890346095715389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2558
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3075e7d9787d6de30800000000000000
+      internalID: 4528043452830471939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2558
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbab9e7a3ff4cb30800000000000000
+      internalID: 4306847770370354102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2558
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65942cb3761d7f740800000000000000
+      internalID: 5185843737254840662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2558
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15f7089289a98260800000000000000
+      internalID: 7100392665887798556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2558
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d525241946646c700800000000000000
+      internalID: 560212601401922141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2558
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fce336ea4c2d2b30800000000000000
+      internalID: 4264113122391092470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2558
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c89bb65a45e60b0800000000000000
+      internalID: -5733552206142403480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 2558
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c237e4da954548430800000000000000
+      internalID: 3784242331034481452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 2558
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2942eb105827b4c50800000000000000
+      internalID: 6650535190328124562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 2558
+        width: 108
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1d7c137eb33dfc0800000000000000
+      internalID: -3471365023613857345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 2558
+        width: 108
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dc931ac236e5ee0800000000000000
+      internalID: -1270469001537270427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 2558
+        width: 108
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d799e37b130461e0800000000000000
+      internalID: -2205634501061011498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 2558
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af43e8740277f37d0800000000000000
+      internalID: -2936497451499113222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 2558
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52d2098ea9aaf270800000000000000
+      internalID: 8285121031589515866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 2558
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315786e66cf0d9770800000000000000
+      internalID: 8619062606787278099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2302
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b7e688b946196b0800000000000000
+      internalID: -5291337468011971716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2302
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4137cfcc424ccf0800000000000000
+      internalID: -233020817889094457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2302
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b09adc1f15affbf0800000000000000
+      internalID: -288330298081767247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2302
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fea067dcc4821be0800000000000000
+      internalID: -1507996909894062345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2302
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031b3a46a49d47f70800000000000000
+      internalID: 9184204453654540592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 2302
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc7b8b8b2c79ce20800000000000000
+      internalID: 3371362322530139385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2302
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1beec70edceb9e0800000000000000
+      internalID: -1603618053244931592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2302
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d3d6379b6658670800000000000000
+      internalID: 8540345215069535630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 2302
+        width: 110
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fd04c157f3ffdb0800000000000000
+      internalID: -4756012909262217384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2302
+        width: 110
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8249aebbdb29e50800000000000000
+      internalID: 6814717800957094088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 2302
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37ab919d4da04880800000000000000
+      internalID: -8628706337374886081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 2302
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924ba61fb3e78fc50800000000000000
+      internalID: 6699243241632085033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 2302
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d58a8b9fb8dbc20800000000000000
+      internalID: 3223886812928302432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 2302
+        width: 108
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f496f7ac0a12b870800000000000000
+      internalID: 8697042472065733875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 2302
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60fe51e530f69970800000000000000
+      internalID: 8761454239300907115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 2302
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ee6441de45933d0800000000000000
+      internalID: -3226454280810074615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2046
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11452bd9ecffd3d0800000000000000
+      internalID: -3179544730566049510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2046
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc2a286743aee3e0800000000000000
+      internalID: -2022499655557174077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2046
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e6dd0047297c660800000000000000
+      internalID: 7406049139162443342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2046
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cc0cfda80b754c0800000000000000
+      internalID: -4298773208795919307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2046
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c9c4d510418560800000000000000
+      internalID: 7314197732334880885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 2046
+        width: 112
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7dc8e6ca51845a0800000000000000
+      internalID: -6536951028794992736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2046
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a041cc03ddb61a720800000000000000
+      internalID: 2855682236480230410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2046
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b39461310205da10800000000000000
+      internalID: 1933453819172393911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 2046
+        width: 108
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df113dc6e92ff20800000000000000
+      internalID: 3454998054381419781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 2046
+        width: 110
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e747dd8aeff67a0800000000000000
+      internalID: -6381602145737343338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 2046
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490700f07208ee1e0800000000000000
+      internalID: -2166653465474862956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2046
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc8147eba1bccc70800000000000000
+      internalID: 8992757907829394635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 2046
+        width: 108
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81da7b2da3a950780800000000000000
+      internalID: -8717391926271693544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 2046
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea2e22e3badeb0d0800000000000000
+      internalID: -3405043802116838679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 2046
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25089c29c502e7510800000000000000
+      internalID: 1548710903833788498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 2046
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a461bbdfc57a7050800000000000000
+      internalID: 5799077005797450913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1790
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a24f2e844a3ace0800000000000000
+      internalID: -1395090826602468799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1790
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c886f0b579d1330800000000000000
+      internalID: 3683266487615261733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1790
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f291f7a3a0f2a20800000000000000
+      internalID: 3039659519855112051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1790
+        width: 108
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f697c226ea2bb590800000000000000
+      internalID: -7657479573499046151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1794
+        width: 108
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b55e7245baa3960800000000000000
+      internalID: 7582561300566596402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1798
+        width: 108
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c2a39da1265e270800000000000000
+      internalID: 8279131357443664964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1802
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b236b688539cd910800000000000000
+      internalID: 1863526354251035320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1790
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf69f66b8dbedf10800000000000000
+      internalID: 2296481266431258557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1790
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce7c0893157f9b80800000000000000
+      internalID: -8385855254124790079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1790
+        width: 108
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37042605cf14f440800000000000000
+      internalID: 4968631219968542527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 1790
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ae27e0052f31620800000000000000
+      internalID: 2743803023652481659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 1790
+        width: 106
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c153bccea1db95f0800000000000000
+      internalID: -748774364338236986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 1790
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af4ade6007462c00800000000000000
+      internalID: 875465244755513255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1790
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735459da4a7ebec70800000000000000
+      internalID: 9001542974702961975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 1790
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc099602610b6a910800000000000000
+      internalID: 1848358306161725643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 1790
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621439299b90c8990800000000000000
+      internalID: -7382514996534361818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1534
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8295662089f0ab20800000000000000
+      internalID: 3143786868699927178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1534
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd486d94e874c09a0800000000000000
+      internalID: -6265554305129478948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1534
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8b64e96ed4cbc00800000000000000
+      internalID: 917694076969990359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1534
+        width: 108
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc1eff3f9b75a7a0800000000000000
+      internalID: -6366546574314693385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1538
+        width: 108
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91e088f0b004eda0800000000000000
+      internalID: -5916603250374549093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1542
+        width: 108
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3b3623d31474560800000000000000
+      internalID: 7297873452271383529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1546
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9543ba2bd9d7eb00800000000000000
+      internalID: 857893789374825887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1534
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ed45e4fa608260800000000000000
+      internalID: 7097790612787554472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1534
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6cb1c53df4bdbf0800000000000000
+      internalID: -298557181087987983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1534
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e4668dbf3c23830800000000000000
+      internalID: 4049514501394288128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 1534
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137afb12bd8825ce0800000000000000
+      internalID: -1417920457922861263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1534
+        width: 106
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed78126dc9c9de0800000000000000
+      internalID: -1325011746854281685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 1534
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294d210733d68f490800000000000000
+      internalID: -7712294294180932462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 1534
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cc2b439f2f097c0800000000000000
+      internalID: -4066483311370646404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 1534
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9378ce6f8d9bd22b0800000000000000
+      internalID: -5607621619499628743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 1534
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc980da9d01e37d0800000000000000
+      internalID: -2936891379902014262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1278
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f8e0a6670db57c0800000000000000
+      internalID: -4081439430277165154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1278
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068635e7a7ed880c0800000000000000
+      internalID: -4573160803907966880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1278
+        width: 106
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6166ad16490670e0800000000000000
+      internalID: -2272618765212032658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1278
+        width: 108
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa89be09e4fb9220800000000000000
+      internalID: 2493856100491299568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1278
+        width: 108
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6eb623fd7a57f30800000000000000
+      internalID: 4572745573730084598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1278
+        width: 106
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea0e1197dc4a93e0800000000000000
+      internalID: -2046238591950124311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1278
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d890cfc8a8cd76e40800000000000000
+      internalID: 5649726745188501901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1278
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c7e28430d16e9d0800000000000000
+      internalID: -2745475022902625165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1278
+        width: 108
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c9d7d3d5b614270800000000000000
+      internalID: 8232979642017750112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1278
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793d2916f1cadd6e0800000000000000
+      internalID: -1811102224352095337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1278
+        width: 134
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62f68bfbb7b24360800000000000000
+      internalID: 7152481176224461420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 1278
+        width: 152
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37d6d556c6bcd860800000000000000
+      internalID: 7556115237780772669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1278
+        width: 154
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e403c5ff6627fe8d0800000000000000
+      internalID: -2814905455386808242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1278
+        width: 154
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9483b5ecf4d04d180800000000000000
+      internalID: -9091627111338526647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 1278
+        width: 152
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc06a503c8c131460800000000000000
+      internalID: 7211138816782524620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 3842
+        y: 1278
+        width: 154
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d713fb99e8549b0800000000000000
+      internalID: -5096510612311016104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1022
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f740a691878dca0800000000000000
+      internalID: -5991907253668249748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1022
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d430a941e2a6c7ad0800000000000000
+      internalID: -2703168930182462643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1022
+        width: 108
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb35db57b4657f5a0800000000000000
+      internalID: -6487621856106032193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1022
+        width: 106
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e15d750b219ce1f0800000000000000
+      internalID: -1014276202103483931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1022
+        width: 106
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7154ee8541f79ed20800000000000000
+      internalID: 3308315126648423703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1022
+        width: 106
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e44e675bbab50ac0800000000000000
+      internalID: -3889497389376060185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1022
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70255de88425d7530800000000000000
+      internalID: 3854327327686480391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1022
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dd989ee06d23e90800000000000000
+      internalID: -7047335107345392351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 1022
+        width: 108
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61d0d8009ec3b1b0800000000000000
+      internalID: -5641938790146584212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 1022
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477a99a0a6ae539f0800000000000000
+      internalID: -489227243334555788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_182
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 1022
+        width: 136
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b55ba7b7cc52e40800000000000000
+      internalID: 5631131739808422768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_183
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 1022
+        width: 152
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95e047b09a0a3be0800000000000000
+      internalID: -1496872309481216609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_184
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 1022
+        width: 154
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174cbe64db3d64e00800000000000000
+      internalID: 1028742374792873073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_185
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 1022
+        width: 154
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71e22b213fd56110800000000000000
+      internalID: 1253653473562648955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_186
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1022
+        width: 154
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33aa7a7f34d3fca0800000000000000
+      internalID: -5984206110742371521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_187
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 1022
+        width: 154
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e750d0513db4f6590800000000000000
+      internalID: -7678835469680048770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_188
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 766
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8df8c9cc7b0ff90800000000000000
+      internalID: -6921830537840568101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_189
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 766
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230ea101188012f80800000000000000
+      internalID: -8133210101640404942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_190
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 766
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1bf0e3068505560800000000000000
+      internalID: 7300432166348894646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_191
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 766
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dae03228eac81e0800000000000000
+      internalID: -2194187044479128239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_192
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 766
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3330c6e91a2327b10800000000000000
+      internalID: 1977698856098071347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_193
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 766
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9828e79649c9893d0800000000000000
+      internalID: -3199635374007745911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_194
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 766
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4382931be2b9ed0800000000000000
+      internalID: -2406278237196372744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_195
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 766
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b20261cbfefbfb50800000000000000
+      internalID: 6628171633840489138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_196
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 766
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4077fe7c1ed8d20800000000000000
+      internalID: 3282527952255255784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_197
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 766
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255cf6d1503cca7c0800000000000000
+      internalID: -4058654737431542446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_198
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 766
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52c849bfeabe4db0800000000000000
+      internalID: -4805698213589237156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_199
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 766
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45c497609d609850800000000000000
+      internalID: 6381721138964514122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_200
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 766
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d13f8f0e06aa3f0800000000000000
+      internalID: -888791457086628551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_201
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 766
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ce5284ed379fff0800000000000000
+      internalID: -1842926306595788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_202
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 766
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fc6e67b78679c80800000000000000
+      internalID: -8316063307431227513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_203
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 766
+        width: 152
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46c1a2a9bcbdefa0800000000000000
+      internalID: -5769748042108254641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_204
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 510
+        width: 152
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc435daadfc080630800000000000000
+      internalID: 3893376161494152396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_205
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 510
+        width: 152
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce02e665860da8740800000000000000
+      internalID: 5155161870024188140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_206
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 510
+        width: 152
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05e406e7f716d280800000000000000
+      internalID: -9018994850279398132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_207
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 510
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8357b5f11fa5f7270800000000000000
+      internalID: 8250413034025743672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_208
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 510
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17ca946ca63a5940800000000000000
+      internalID: 5285597226722838299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 254
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5442cea4ff2a4ed0800000000000000
+      internalID: -2429076321062468517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_210
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 254
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac6e7b7740455950800000000000000
+      internalID: 6437121918154730656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_211
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 254
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95899ab667a4bdf60800000000000000
+      internalID: 8060117830582507609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_212
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 254
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2ad0c47f472660800000000000000
+      internalID: 7360939478830688985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_213
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 254
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d7c4b444d0d9d70800000000000000
+      internalID: 9051405413056806204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_214
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 254
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2149f482f0e2631c0800000000000000
+      internalID: -4524378133011393518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_215
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 254
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a927bafab93068780800000000000000
+      internalID: -8681247264507989350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_216
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 254
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e983364380dd2c540800000000000000
+      internalID: 5026823161407289502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_217
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 254
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d270ea51c001aec80800000000000000
+      internalID: -8292798119759968467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_218
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 254
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b887eebeaddfea20800000000000000
+      internalID: 3093935211623712951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_219
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 254
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78255170c71c383f0800000000000000
+      internalID: -899662762105023865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_220
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 254
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fa2775f2a22d8f0800000000000000
+      internalID: -517304624375222488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_221
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 254
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7921e4069b0dbc00800000000000000
+      internalID: 917902638008314236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_222
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 254
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ae121b190b8a4d0800000000000000
+      internalID: -3123052201792902518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_223
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 254
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a7551fb915efb20800000000000000
+      internalID: 3170060917926099461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_224
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 254
+        width: 152
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3208e54d94ff54450800000000000000
+      internalID: 6072540365139640355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_225
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 152
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fb24c67b393ea80800000000000000
+      internalID: -8438738860757565571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_226
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 152
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedd42897e3334ea0800000000000000
+      internalID: -5889806817887461905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_227
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 152
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8e1057a0ce00c80800000000000000
+      internalID: -8358421378742753032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_228
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 152
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8861d93b094faecb0800000000000000
+      internalID: -4833782347702921592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumba_yoshi_animation_sprite_sheet_229
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bee4633244003db0800000000000000
+      internalID: -4814343319282454858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
