@@ -106,8 +106,14 @@ public class MarioController : MonoBehaviour
 
     void CheckGround()
     {
-        RaycastHit2D hit = Physics2D.Raycast(transform.position + Vector3.down * 0.1f, Vector2.down, 0.1f);
-        isGrounded = hit.collider != null;
+        RaycastHit2D hit = Physics2D.Raycast(
+            transform.position + Vector3.down * 0.1f,
+            Vector2.down,
+            0.1f
+        );
+        Collider2D otherCollider = hit.collider;
+
+        isGrounded = otherCollider != null;
         Debug.DrawRay(transform.position, Vector2.down * 0.1f, Color.red);
     }
 }

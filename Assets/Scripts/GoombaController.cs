@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class GoombaController : MonoBehaviour, ICyclicEnemy
+public class GoombaController : MonoBehaviour, ICyclicEnemy, IDamageable
 {
     private float _speed = 3.0f;
     private int _direction = 1;
@@ -59,5 +59,10 @@ public class GoombaController : MonoBehaviour, ICyclicEnemy
     public void Jump()
     {
         _rb2d.AddForce(Vector2.up * _jumpFactor, ForceMode2D.Impulse);
+    }
+
+    public void TakeDamage()
+    {
+        Destroy(gameObject);
     }
 }
