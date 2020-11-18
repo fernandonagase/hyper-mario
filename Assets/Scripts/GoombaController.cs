@@ -4,7 +4,8 @@ public class GoombaController : MonoBehaviour, ICyclicEnemy
 {
     private float _speed = 3.0f;
     private int _direction = 1;
-    private int _jumpFactor = 4;
+    private int _jumpFactor = 7;
+    private bool _isGrounded = false;
 
     private Rigidbody2D _rb2d;
     private Animator _animator;
@@ -14,6 +15,17 @@ public class GoombaController : MonoBehaviour, ICyclicEnemy
     {
         _rb2d = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
+    }
+
+    private void Update()
+    {
+        RaycastHit2D hit = Physics2D.Raycast(
+            transform.position + Vector3.down * 0.75f,
+            Vector2.down,
+            0.1f
+        );
+        _isGrounded = hit.collider != null;
+        _animator.SetBool("isGrounded", _isGrounded);
     }
 
     void FixedUpdate()
@@ -46,7 +58,6 @@ public class GoombaController : MonoBehaviour, ICyclicEnemy
 
     public void Jump()
     {
-        _animator.SetBool("isJumping", true);
         _rb2d.AddForce(Vector2.up * _jumpFactor, ForceMode2D.Impulse);
     }
 }
