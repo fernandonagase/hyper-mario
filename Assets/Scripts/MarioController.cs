@@ -24,7 +24,6 @@ public class MarioController : MonoBehaviour
     private float horizontal = 0f;
     private float _deadzone = 0.15f;
     private bool isGrounded = false;
-    private bool isRunning = false;
     private bool _isCrouched = false;
 
     void Start()
@@ -66,23 +65,9 @@ public class MarioController : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (!_isCrouched)
-        {
-            float horizontalSpeed = horizontal * speedMax;
-            if (Input.GetKey(KeyCode.LeftShift) && horizontalSpeed != 0)
-            {
-                horizontalSpeed *= runFactor;
-                isRunning = true;
-            }
-            else
-            {
-                isRunning = false;
-            }
-            rb2d.velocity = new Vector2(horizontalSpeed, rb2d.velocity.y);
-
-            // Mover responsabilidade de animação
-            animCtrl.SetBool("isRunning", isRunning);
-        }
+        float horizontalSpeed = horizontal * speedMax;
+        bool isRunning = horizontalSpeed != 0 && Input.GetKey(KeyCode.LeftShift);
+        Move(Vector2.right * horizontalSpeed, isRunning);
     }
 
 
@@ -93,11 +78,6 @@ public class MarioController : MonoBehaviour
         //else if(horizontal < 0f)
         //    sprRenderer.flipX = true;
 
-        if (horizontal != 0)
-        {
-            animCtrl.SetFloat("direction", horizontal);
-        }
-        animCtrl.SetFloat("speed", Mathf.Abs(horizontal));
         animCtrl.SetBool("isGrounded", isGrounded);
     }
 
@@ -122,9 +102,23 @@ public class MarioController : MonoBehaviour
 
 
 
-    public void Move(Vector2 velocity)
+    public void Move(Vector3 velocity, bool isRunning)
     {
+        animCtrl.SetFloat("speed", Mathf.Abs(velocity.x));
 
+        if (velocity.x != 0)
+        {
+            animCtrl.SetFloat("direction", velocity.x);
+        }
+
+        if (isRunning)
+        {
+            velocity *= runFactor;
+        }
+        // Mover responsabilidade de animação
+        animCtrl.SetBool("isRunning", isRunning);
+
+        transform.position += velocity * Time.deltaTime;
     }
 
     public void Jump()
