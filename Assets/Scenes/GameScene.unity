@@ -786,6 +786,7 @@ GameObject:
   - component: {fileID: 415336169}
   - component: {fileID: 415336168}
   - component: {fileID: 415336167}
+  - component: {fileID: 415336170}
   m_Layer: 0
   m_Name: Mario
   m_TagString: Player
@@ -894,8 +895,6 @@ MonoBehaviour:
   _jumpAudio: {fileID: 8300000, guid: ff68ef9a4c84ccd45a014872efca5a1c, type: 3}
   speedMax: 5
   runFactor: 1.6
-  _jumpButton: {fileID: 2139928107}
-  _joystick: {fileID: 433438390}
 --- !u!50 &415336168
 Rigidbody2D:
   serializedVersion: 4
@@ -943,6 +942,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.8649868, y: 1.8163805}
   m_EdgeRadius: 0
+--- !u!114 &415336170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 415336163}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a50f30413deb77499fc36006c09bee2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _jumpButton: {fileID: 2139928107}
+  _joystick: {fileID: 433438390}
 --- !u!1 &433438386
 GameObject:
   m_ObjectHideFlags: 0
@@ -2094,7 +2107,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &1570050349
 Animator:
   serializedVersion: 3
