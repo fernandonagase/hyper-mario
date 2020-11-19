@@ -52,13 +52,11 @@ public class MarioController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             if (!isGrounded) return;
-            rb2d.AddForce(Vector2.up * jumpImpulse, ForceMode2D.Impulse);
-            _sfxSource.PlayOneShot(_jumpAudio);
+            Jump();
         }
         else if (isGrounded && _jumpButton.DownEvent)
         {
-            rb2d.AddForce(Vector2.up * jumpImpulse, ForceMode2D.Impulse);
-            _sfxSource.PlayOneShot(_jumpAudio);
+            Jump();
         }
 
         isCrouched = Input.GetKey(KeyCode.S);
@@ -115,5 +113,29 @@ public class MarioController : MonoBehaviour
 
         isGrounded = otherCollider != null;
         Debug.DrawRay(transform.position, Vector2.down * 0.1f, Color.red);
+    }
+
+
+
+
+
+
+
+
+
+    public void Move(Vector2 velocity)
+    {
+
+    }
+
+    public void Jump()
+    {
+        rb2d.AddForce(Vector2.up * jumpImpulse, ForceMode2D.Impulse);
+        _sfxSource.PlayOneShot(_jumpAudio);
+    }
+
+    public void Crouch()
+    {
+
     }
 }
