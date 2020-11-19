@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class MarioController : MonoBehaviour
 {
@@ -20,7 +18,6 @@ public class MarioController : MonoBehaviour
     private VirtualJoystick _joystick = null;
     private Rigidbody2D rb2d;
     private Animator animCtrl;
-    private SpriteRenderer sprRenderer;
     private float horizontal = 0f;
     private float _deadzone = 0.15f;
     private bool isGrounded = false;
@@ -30,7 +27,6 @@ public class MarioController : MonoBehaviour
     {
         rb2d = GetComponent<Rigidbody2D>();
         animCtrl = GetComponent<Animator>();
-        sprRenderer = GetComponent<SpriteRenderer>();
     }
 
     void Update()
@@ -73,11 +69,6 @@ public class MarioController : MonoBehaviour
 
     void UpdateAnimation()
     {
-        //if (horizontal > 0f)
-        //    sprRenderer.flipX = false;
-        //else if(horizontal < 0f)
-        //    sprRenderer.flipX = true;
-
         animCtrl.SetBool("isGrounded", isGrounded);
     }
 
