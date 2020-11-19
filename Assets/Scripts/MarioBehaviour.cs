@@ -63,7 +63,11 @@ public class MarioBehaviour : MonoBehaviour
     {
         float horizontalSpeed = horizontal * speedMax;
         bool isRunning = horizontalSpeed != 0 && Input.GetKey(KeyCode.LeftShift);
-        Move(Vector2.right * horizontalSpeed, isRunning);
+        if (isRunning)
+        {
+            horizontalSpeed *= runFactor;
+        }
+        Move(Vector2.right * horizontalSpeed);
     }
 
 
@@ -93,7 +97,7 @@ public class MarioBehaviour : MonoBehaviour
 
 
 
-    public void Move(Vector3 velocity, bool isRunning)
+    public void Move(Vector3 velocity)
     {
         animCtrl.SetFloat("speed", Mathf.Abs(velocity.x));
 
@@ -102,10 +106,7 @@ public class MarioBehaviour : MonoBehaviour
             animCtrl.SetFloat("direction", velocity.x);
         }
 
-        if (isRunning)
-        {
-            velocity *= runFactor;
-        }
+        bool isRunning = Mathf.Abs(velocity.x) > speedMax;
         // Mover responsabilidade de animação
         animCtrl.SetBool("isRunning", isRunning);
 
