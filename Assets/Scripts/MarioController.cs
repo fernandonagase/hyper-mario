@@ -25,7 +25,7 @@ public class MarioController : MonoBehaviour
     private float _deadzone = 0.15f;
     private bool isGrounded = false;
     private bool isRunning = false;
-    private bool isCrouched = false;
+    private bool _isCrouched = false;
 
     void Start()
     {
@@ -41,11 +41,11 @@ public class MarioController : MonoBehaviour
         horizontal = Input.GetAxisRaw("Horizontal");
         if (horizontal != 0)
         {
-            horizontal = isCrouched ? 0 : horizontal;
+            horizontal = _isCrouched ? 0 : horizontal;
         }
         else
         {
-            horizontal = isCrouched ? 0 : _joystick.GetHorizontal();
+            horizontal = _isCrouched ? 0 : _joystick.GetHorizontal();
             horizontal = Mathf.Abs(horizontal) > _deadzone ? horizontal : 0.0f;
         }
 
@@ -59,14 +59,14 @@ public class MarioController : MonoBehaviour
             Jump();
         }
 
-        isCrouched = Input.GetKey(KeyCode.S);
+        Crouch(Input.GetKey(KeyCode.S));
 
         UpdateAnimation();
     }
 
     void FixedUpdate()
     {
-        if (!isCrouched)
+        if (!_isCrouched)
         {
             float horizontalSpeed = horizontal * speedMax;
             if (Input.GetKey(KeyCode.LeftShift) && horizontalSpeed != 0)
@@ -99,7 +99,6 @@ public class MarioController : MonoBehaviour
         }
         animCtrl.SetFloat("speed", Mathf.Abs(horizontal));
         animCtrl.SetBool("isGrounded", isGrounded);
-        animCtrl.SetBool("isCrouched", isCrouched);
     }
 
     void CheckGround()
@@ -134,8 +133,9 @@ public class MarioController : MonoBehaviour
         _sfxSource.PlayOneShot(_jumpAudio);
     }
 
-    public void Crouch()
+    public void Crouch(bool isCrouched)
     {
-
+        _isCrouched = isCrouched;
+        animCtrl.SetBool("isCrouched", _isCrouched);
     }
 }
