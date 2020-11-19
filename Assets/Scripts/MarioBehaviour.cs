@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class MarioController : MonoBehaviour
+public class MarioBehaviour : MonoBehaviour
 {
     [SerializeField]
     private AudioSource _sfxSource;
