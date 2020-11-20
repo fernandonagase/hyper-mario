@@ -894,7 +894,6 @@ MonoBehaviour:
   _sfxSource: {fileID: 1137323582}
   _jumpAudio: {fileID: 8300000, guid: ff68ef9a4c84ccd45a014872efca5a1c, type: 3}
   speedMax: 5
-  runFactor: 1.6
 --- !u!50 &415336168
 Rigidbody2D:
   serializedVersion: 4
@@ -2107,7 +2106,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!95 &1570050349
 Animator:
   serializedVersion: 3
