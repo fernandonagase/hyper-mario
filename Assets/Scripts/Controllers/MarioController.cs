@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class MarioController : CharacterController
+public class MarioController : MonoBehaviour
 {
     private const float WalkSpeed = 5f;
     private const float RunFactor = 1.6f;
@@ -10,6 +10,7 @@ public class MarioController : CharacterController
     private bool _isRunning = false;
     private bool _jumpEvent = false;
 
+    private MarioBehaviour _marioBehaviour;
     [SerializeField]
     private VirtualButton _jumpButton = null;
     [SerializeField]
@@ -19,7 +20,7 @@ public class MarioController : CharacterController
     // Start is called before the first frame update
     void Start()
     {
-        movable = gameObject.GetComponent<MarioBehaviour>();
+        _marioBehaviour = gameObject.GetComponent<MarioBehaviour>();
         animCtrl = GetComponent<Animator>();
     }
 
@@ -27,9 +28,9 @@ public class MarioController : CharacterController
     void Update()
     {
         CheckGround();
-        animCtrl.SetBool("isGrounded", ((MarioBehaviour)movable).IsGrounded);
+        animCtrl.SetBool("isGrounded", _marioBehaviour.IsGrounded);
 
-        ((MarioBehaviour)movable).Crouch(Input.GetKey(KeyCode.S));
+        _marioBehaviour.Crouch(Input.GetKey(KeyCode.S));
 
         if (!_jumpEvent)
         {
@@ -47,12 +48,12 @@ public class MarioController : CharacterController
         if (_jumpEvent)
         {
             _jumpEvent = false;
-            ((MarioBehaviour)movable).Jump();
+            _marioBehaviour.Jump();
         }
 
         float speed = _movement * WalkSpeed;
         if (_isRunning) speed *= RunFactor;
-        movable.Move(Vector2.right * speed);
+        _marioBehaviour.Move(Vector2.right * speed);
     }
 
     private void CheckGround()
@@ -64,6 +65,6 @@ public class MarioController : CharacterController
         );
         Collider2D otherCollider = hit.collider;
 
-        ((MarioBehaviour)movable).IsGrounded = otherCollider != null;
+        _marioBehaviour.IsGrounded = otherCollider != null;
     }
 }
