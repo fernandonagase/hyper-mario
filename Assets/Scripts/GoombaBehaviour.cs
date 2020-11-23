@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class GoombaController : MonoBehaviour, ICyclicEnemy, IDamageable
+public class GoombaBehaviour : MonoBehaviour, ICyclicEnemy, IDamageable
 {
     private float _speed = 3.0f;
     private int _direction = 1;
